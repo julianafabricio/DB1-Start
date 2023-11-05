@@ -12,12 +12,16 @@ Antes de executar o projeto, certifique-se de ter o Python instalado em sua máq
 ## Instalação
 Clone o repositório para sua máquina:
 bash
+
 git clone [https://github.com/seu-nome-de-usuario/sistema-de-cadastro.git](https://github.com/julianafabricio/DB1-Start.git)
 
 ## Uso
 1 - Ao executar o programa, você será apresentado com um menu com as opções "Cadastro" e "Login".
+
 2 - Escolha "Cadastro" para criar uma nova conta. Digite um nome de usuário e uma senha quando solicitado.
+
 3 - Escolha "Login" para fazer login com suas credenciais. O sistema verificará se as credenciais correspondem aos dados no arquivo de texto e o permitirá acessar sua conta.
+
 4 -Mensagens informativas serão exibidas para fornecer feedback sobre o sucesso ou falha do processo de cadastro ou login.
 
 ## Contribuições
