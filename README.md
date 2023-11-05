@@ -29,8 +29,6 @@ Contribuições são bem-vindas! Se você gostaria de contribuir para este proje
 
 ## Autor
 Juliana Fabricio
-## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
 
 ## Agradecimentos
-Agradeça a qualquer pessoa ou recurso que tenha inspirado você a criar este projeto.
+Agradeço ao sistema de mentoria do Db1, pelos conhecimentos compartilhados. Embora simples, finalizo o projeto com grande satisfação, pois ainda me encontro no 1º termo da faculdade e com os conhecimentos adquiridos por meio da mentoria, já consegui realizar esse projeto.
